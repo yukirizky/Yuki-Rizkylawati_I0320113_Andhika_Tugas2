@@ -14,7 +14,7 @@ print(20)
 print(3.14)
 
 # Tipe data Hexadecimal
-number = 9
+number = 10
 print(hex(number))
 
 # Tipe data Complex
